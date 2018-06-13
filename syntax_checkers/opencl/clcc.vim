@@ -9,7 +9,7 @@
 if exists('g:loaded_syntastic_opencl_clcc_checker')
     finish
 endif
-let g:loaded_synstatic_opencl_clcc_checker = 1
+let g:loaded_syntastic_opencl_clcc_checker = 1
 
 let s:save_cpo = &cpo
 set cpo&vim
